@@ -1,0 +1,40 @@
+
+ul{list-style: none;
+    background-color: rgb(75, 74, 74);
+    overflow: hidden;
+    position:sticky ;
+    }
+li{ color: rgb(255, 255, 255);
+  float: left;  
+  padding: 3px;
+display: block;} 
+
+.hotline{width: 20%;}
+.A{width: 40%;}
+.b{width: 25%;}
+.A a{ text-decoration: none;}
+.logo{ margin-left: 250px;}
+li:hover{background-color: rgb(184, 107, 107); color: black;}
+  
+  }
+
+
+input:focus { background-color: rgb(255, 0, 0);}
+.E{
+
+  width:auto;
+  margin-right:5%;
+  text-align: center;
+}
+
+.search{text-align: center;}
+body{
+background-color: rgb(223, 215, 205);
+}
+#number1{float: left;
+text-align: center;}
+
+#number1{border: 1px solid rgb(0, 0, 0); width: 33%;height: 350px; overflow: scroll;"}
+font-family: 'Hina Mincho', serif;
+#number2{border: 1px solid rgb(0, 0, 0); width: 320px;height: 350px; overflow: scroll;"}
+#number3{border: 1px solid rgb(0, 0, 0); width: 320px;height: 350px; overflow: scroll;}
