@@ -34,7 +34,7 @@ background-color: rgb(223, 215, 205);
 #number1{float: left;
 text-align: center;}
 
-#number1{border: 1px solid rgb(0, 0, 0); width: 33%;height: 350px; overflow: scroll;"}
+#number1{border: 0px solid rgb(0, 0, 0); width: 33%;height: 350px; overflow: scroll;"}
 font-family: 'Hina Mincho', serif;
 #number2{border: 1px solid rgb(0, 0, 0); width: 320px;height: 350px; overflow: scroll;"}
 #number3{border: 1px solid rgb(0, 0, 0); width: 320px;height: 350px; overflow: scroll;}
